@@ -16,5 +16,8 @@
     "url": "https://github.com/mylinh24/yas/issues"
   },
   "homepage": "https://github.com/mylinh24/yas#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
